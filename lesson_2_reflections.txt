@@ -1,0 +1,26 @@
+What happens when you initialize a repository? Why do you need to do it?
+	Ermm all I know is that 'git init' initializes the repository but I am
+	still not sure as to what that means. Also 'git status' pulls up commits
+	but I am not very clear on what that does either...
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+	I think staging area is a part of git and then the working directory is just 
+	the files in their designated spot on the computer. You can add files in the staging 
+	area and then make commits. You can check your status for both. It helps because
+	you are able to make commits to some files in staging area and can put multiple 
+	or just one so that commits are customized.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
